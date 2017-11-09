@@ -12,6 +12,11 @@
     <div class="container">
         <div class="row">
             <img src="poke.png" alt="">
+            <?php echo 'nous sommes le'. date('d-m-Y'); ?>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Placeat autem consequuntur quis veritatis voluptates tempora nesciunt modi ipsum nisi alias omnis,
+                aliquid cumque odit voluptatibus qui? Blanditiis accusantium earum deserunt.</p>
 
         </div>
     </div>
